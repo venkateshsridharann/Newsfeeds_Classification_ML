@@ -1,0 +1,5 @@
+ Data cleaning process steps
+
+1. remove the symbols in the first charecter
+2. remove http links 
+3. trim the trainling and ending spaces
